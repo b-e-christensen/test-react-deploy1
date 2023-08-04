@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-react-deploy1/static/css/main.5112b748.css",
-    "main.js": "/test-react-deploy1/static/js/main.98bae6b0.js",
+    "main.js": "/test-react-deploy1/static/js/main.2528fd78.js",
     "static/media/opti.png": "/test-react-deploy1/static/media/opti.56fa84126c3b25e86e28.png",
     "static/media/meal.png": "/test-react-deploy1/static/media/meal.1f361308c2534848659e.png",
     "static/media/note.png": "/test-react-deploy1/static/media/note.36755071ed4d92ced673.png",
@@ -12,10 +12,10 @@
     "static/media/logo1.png": "/test-react-deploy1/static/media/logo1.3a94bafba330192435d0.png",
     "index.html": "/test-react-deploy1/index.html",
     "main.5112b748.css.map": "/test-react-deploy1/static/css/main.5112b748.css.map",
-    "main.98bae6b0.js.map": "/test-react-deploy1/static/js/main.98bae6b0.js.map"
+    "main.2528fd78.js.map": "/test-react-deploy1/static/js/main.2528fd78.js.map"
   },
   "entrypoints": [
     "static/css/main.5112b748.css",
-    "static/js/main.98bae6b0.js"
+    "static/js/main.2528fd78.js"
   ]
 }
