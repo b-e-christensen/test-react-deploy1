@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/20.ReactPortfolio/static/css/main.5112b748.css",
-    "main.js": "/20.ReactPortfolio/static/js/main.1d72f2a9.js",
-    "static/media/opti.png": "/20.ReactPortfolio/static/media/opti.56fa84126c3b25e86e28.png",
-    "static/media/meal.png": "/20.ReactPortfolio/static/media/meal.1f361308c2534848659e.png",
-    "static/media/note.png": "/20.ReactPortfolio/static/media/note.36755071ed4d92ced673.png",
-    "static/media/underconst.png": "/20.ReactPortfolio/static/media/underconst.8298efe464e86d74d999.png",
-    "static/media/pic.JPG": "/20.ReactPortfolio/static/media/pic.708857214eaac5dff2d7.JPG",
-    "static/media/password.png": "/20.ReactPortfolio/static/media/password.9ff8605e65d1721b8093.png",
-    "static/media/ecommerce.png": "/20.ReactPortfolio/static/media/ecommerce.abd7e861e58e72958f9c.png",
-    "static/media/logo1.png": "/20.ReactPortfolio/static/media/logo1.3a94bafba330192435d0.png",
-    "index.html": "/20.ReactPortfolio/index.html",
-    "main.5112b748.css.map": "/20.ReactPortfolio/static/css/main.5112b748.css.map",
-    "main.1d72f2a9.js.map": "/20.ReactPortfolio/static/js/main.1d72f2a9.js.map"
+    "main.css": "/test-react-deploy1/static/css/main.5112b748.css",
+    "main.js": "/test-react-deploy1/static/js/main.45518705.js",
+    "static/media/opti.png": "/test-react-deploy1/static/media/opti.56fa84126c3b25e86e28.png",
+    "static/media/meal.png": "/test-react-deploy1/static/media/meal.1f361308c2534848659e.png",
+    "static/media/note.png": "/test-react-deploy1/static/media/note.36755071ed4d92ced673.png",
+    "static/media/underconst.png": "/test-react-deploy1/static/media/underconst.8298efe464e86d74d999.png",
+    "static/media/pic.JPG": "/test-react-deploy1/static/media/pic.708857214eaac5dff2d7.JPG",
+    "static/media/password.png": "/test-react-deploy1/static/media/password.9ff8605e65d1721b8093.png",
+    "static/media/ecommerce.png": "/test-react-deploy1/static/media/ecommerce.abd7e861e58e72958f9c.png",
+    "static/media/logo1.png": "/test-react-deploy1/static/media/logo1.3a94bafba330192435d0.png",
+    "index.html": "/test-react-deploy1/index.html",
+    "main.5112b748.css.map": "/test-react-deploy1/static/css/main.5112b748.css.map",
+    "main.45518705.js.map": "/test-react-deploy1/static/js/main.45518705.js.map"
   },
   "entrypoints": [
     "static/css/main.5112b748.css",
-    "static/js/main.1d72f2a9.js"
+    "static/js/main.45518705.js"
   ]
 }
